@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "1.4.8",
-  "apkUrl": "https://github.com/OBAX-NET/tuber-updates/releases/download/v1.4.8/TUBER.apk",
-  "sha256": "043c335eeb0fa156f5372c8d967658dc6ec83dd9509710c52e525a3c95a7bc4d",
-  "notes": "Version 1.4.8 release"
+  "versionCode": 12,
+  "versionName": "1.4.9",
+  "apkUrl": "https://github.com/OBAX-NET/tuber-updates/releases/download/v1.4.9/TUBER.apk",
+  "sha256": "b8ab26976b93dbef0f378a489eee29009389c6c332be384de07d6b6aac205753",
+  "notes": "Version 1.4.9 release"
 }
